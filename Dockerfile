@@ -1,1 +1,1 @@
-FROM gcr.io/android-battery-historian/stable:3.0
+FROM gcr.io/android-battery-historian:2.1
